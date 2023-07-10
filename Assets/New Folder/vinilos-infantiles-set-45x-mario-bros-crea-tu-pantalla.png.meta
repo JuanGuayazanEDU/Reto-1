@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 4661345d0a350774f844f6e08a7297be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 510
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb600006306518408bca02899427ff2
+      internalID: -1359761079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 510
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e93907d0b56eb468c54857845ac423
+      internalID: 2087328118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 510
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342aad1144a5d924cac755be60beef3b
+      internalID: -1419039767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 510
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32756aac331c2ab4c9ea64584f83a44b
+      internalID: -939987988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 510
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f2567301aa7646a9d1679f5c5ade3
+      internalID: 816930327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 510
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8838f54cbc5db498d8945c7b717f73
+      internalID: 419981015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 445
+        width: 172
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d68ac919e6654f9b9236b18bdf790
+      internalID: 1511381333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 445
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa0de44e349a847af9f504d6a092fe
+      internalID: -1764264855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 445
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c49625fb3df4f40b8494aab1ed5445
+      internalID: 346553564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 445
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56576a2f41b87504aa7804d933ebedbd
+      internalID: -1852888852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 445
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa444030b6f4642872b96b3a3f557b
+      internalID: -2007654463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 172
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b5a6cffa89364fa76c4dbd643e815
+      internalID: -58486497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 380
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0347e75bb5d9154bb80efb68754f1da
+      internalID: 623898981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6996374211e3a428b68e3c144f28d4
+      internalID: -1287311750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 380
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c5bb5edecb7d47b84b4be92fce9f6
+      internalID: 200457898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 380
+        width: 115
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad6660e0e3e5d4db9e9e5a54913410
+      internalID: -2100447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f8a5cc85c9f540b4bce22fcc7cd6f
+      internalID: 345246563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc0127e285ad54b893f5d9a158d11e
+      internalID: 1557315116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7fd7a1acb50514d812d180fe809d24
+      internalID: -447721371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 330
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd24873192a4740bed36831bdc688b
+      internalID: -1643983714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694a8ef820e2a0146814fa13957dfeb6
+      internalID: -1904303813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34433dfa0e3e2414bb0101a392bb1049
+      internalID: -2095852087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8901df6575954ca4ebda9011208b5
+      internalID: -1654635792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae003da2f4df89f4bb6514d366c15d0f
+      internalID: 1972172844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a15c37cd877ea64d9262d2f0b49d2e6
+      internalID: 1206533673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373971b6e9e2b744a3a5cee9605c99d
+      internalID: 1832572059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7dcb0b2ec612a4f8449b87907eee01
+      internalID: 1892630461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65566e5cddbd0b488d964f395f5e994
+      internalID: 354230543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 330
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b4df005322ff4bbdf5e9844cbf1b8
+      internalID: -2054873085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 106
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9000939e08b1469bae20bbfd516ea
+      internalID: 343565450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 58
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097eb5c0ef877aa46949666108ea5e68
+      internalID: 1021441216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec508ae720bd364e84bfcf33e6d6e32
+      internalID: -946859872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 271
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec166b8aa1074404d9c364c867a77b98
+      internalID: -857700965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 271
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19d0856cb5c8a4aacfedd9bc225e8b
+      internalID: 1038843430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 32
+        width: 141
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502cfc6bebd3564e8035974040420f0
+      internalID: -1817850374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_35
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 284
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc016d1211087ca438c0beac48b26537
+      internalID: -624612015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 284
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6a829fa2d983409c326c083f06d8b
+      internalID: 1017089730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 105
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b9ec4bb7df94498b4f0a304582a57
+      internalID: -1489860609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 238
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551099a47a87524cb6929cf02635f1d
+      internalID: 1671968636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 238
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ccb317792de7b41af46d7a6a747ced
+      internalID: -1717828418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_40
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39761840d4669d46947312a98f7c979
+      internalID: -326995531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6b2b8cf42d7d478805b6480ce5561
+      internalID: 1315249368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 194
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6fe9a00b5d7b445b91508dfde2f71e
+      internalID: -1801285298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 32
+        width: 58
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3052918d346bab640b4a3c7c3d1206aa
+      internalID: -1942986233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 337
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f921506b8621cb40b1926d0fc2ab320
+      internalID: -365250732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_0: -1359761079
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_1: 2087328118
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_10: -2007654463
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_11: -58486497
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_12: 623898981
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_13: -1287311750
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_14: 200457898
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_15: -2100447925
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_16: 345246563
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_17: 1557315116
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_18: -447721371
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_19: -1643983714
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_2: -1419039767
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_20: -1904303813
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_21: -2095852087
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_22: -1654635792
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_23: 1972172844
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_24: 1206533673
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_25: 1832572059
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_26: 1892630461
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_27: 354230543
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_28: -2054873085
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_29: 343565450
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_3: -939987988
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_30: 1021441216
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_31: -946859872
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_32: -857700965
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_33: 1038843430
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_34: -1817850374
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_35: -624612015
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_36: 1017089730
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_37: -1489860609
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_38: 1671968636
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_39: -1717828418
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_4: 816930327
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_40: -326995531
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_41: 1315249368
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_42: -1801285298
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_43: -1942986233
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_44: -365250732
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_5: 419981015
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_6: 1511381333
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_7: -1764264855
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_8: 346553564
+      vinilos-infantiles-set-45x-mario-bros-crea-tu-pantalla_9: -1852888852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
