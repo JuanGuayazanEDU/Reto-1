@@ -8,4 +8,28 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 543fdae8e951479449d4b31b07efbc7d
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: f5c64955676dee947a7913bb2785f232
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.unity
+    guid: e0e71e15425506047b11945d22fecd01
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 8182c9038180b63489661585b1778eb8
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3.unity
+    guid: b87bfadf5484f6248879c423f00d5dbf
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: a36fb84d4bde3194fa67bc1f398a8f73
+  - enabled: 1
+    path: Assets/Scenes/Ayuda.unity
+    guid: 4f3c4b0aab1b2be44815bac85b346784
+  - enabled: 1
+    path: Assets/Scenes/Informacion desarrolladora.unity
+    guid: f13f62359b850f44d8d4e3afa8aa6c95
   m_configObjects: {}

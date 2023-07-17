@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 264981347}
   - component: {fileID: 264981346}
   - component: {fileID: 264981345}
+  - component: {fileID: 264981348}
   m_Layer: 5
   m_Name: Button (Elegir nivel)
   m_TagString: Untagged
@@ -245,6 +246,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 264981343}
   m_CullTransparentMesh: 1
+--- !u!114 &264981348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 264981343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d69e4742d39bfc4489252d414a5dcfff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1098208783
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,6 +679,7 @@ GameObject:
   - component: {fileID: 1547227072}
   - component: {fileID: 1547227071}
   - component: {fileID: 1547227070}
+  - component: {fileID: 1547227073}
   m_Layer: 5
   m_Name: Button (Jugar)
   m_TagString: Untagged
@@ -775,6 +789,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1547227068}
   m_CullTransparentMesh: 1
+--- !u!114 &1547227073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547227068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d69e4742d39bfc4489252d414a5dcfff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1636515268
 GameObject:
   m_ObjectHideFlags: 0
