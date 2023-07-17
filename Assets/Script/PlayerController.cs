@@ -22,7 +22,7 @@ public class PlayerController : MonoBehaviour
         
 
     [Header("Control Rayo")]
-    public float altruaRayo;   
+    public float alturaRayo;   
     public LayerMask piso;    
     public bool tocandoPiso;
 
@@ -42,8 +42,8 @@ public class PlayerController : MonoBehaviour
             transform.position += Vector3.right * horizontal * fuerzaHorizontal* Time.deltaTime;
         }
 
-        Debug.DrawRay(transform.position, Vector3.down * altruaRayo, Color.blue, 0.1f );
-        if(Physics2D.Raycast(transform.position, Vector2.down,altruaRayo, piso )){
+        Debug.DrawRay(transform.position, Vector3.down * alturaRayo, Color.blue, 0.1f );
+        if(Physics2D.Raycast(transform.position, Vector2.down,alturaRayo, piso )){
             tocandoPiso= true;
             //Debug.Log("Hit"); 
             rigidbody2D.gravityScale=1f; 
