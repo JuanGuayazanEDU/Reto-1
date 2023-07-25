@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 5626036240093488875}
   - component: {fileID: 2673730021998301487}
+  - component: {fileID: 3260091892576959254}
+  - component: {fileID: 6856078952063854217}
   m_Layer: 0
   m_Name: Hongo vida
   m_TagString: Untagged
@@ -30,7 +32,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2673730021998301487
 SpriteRenderer:
@@ -73,14 +75,89 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f2e45d3e70388424d9784e6f45cd9d16, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4c77c3a1eac8353479526972c4a4953e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 12, y: 12}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &3260091892576959254
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3231416950598130443}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 12, y: 12}
+    newSize: {x: 12, y: 12}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 4.0899997, y: 2.1299999}
+      - {x: 2.9299998, y: 3.32}
+      - {x: 1.76, y: 3.9199998}
+      - {x: -1.92, y: 3.9199998}
+      - {x: -1.9399999, y: 3.8999999}
+      - {x: -3.1599998, y: 3.32}
+      - {x: -4.36, y: 2.1499999}
+      - {x: -4.94, y: 0.9}
+      - {x: -4.94, y: -2.7}
+      - {x: -4.3399997, y: -3.3}
+      - {x: -3.97, y: -4.66}
+      - {x: -2.9199998, y: -5.72}
+      - {x: 2.6499999, y: -5.72}
+      - {x: 3.7099998, y: -4.72}
+      - {x: 4.7, y: -2.9299998}
+      - {x: 4.7, y: 1.06}
+  m_UseDelaunayMesh: 0
+--- !u!114 &6856078952063854217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3231416950598130443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 843d9b4b2f92f104f8e3cc61c9b8403d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vida: 10
+  tag: []

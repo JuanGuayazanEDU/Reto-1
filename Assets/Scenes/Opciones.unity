@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 251891138}
   - component: {fileID: 251891137}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button (Regresar al menu)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -258,7 +258,7 @@ GameObject:
   - component: {fileID: 425810688}
   - component: {fileID: 425810687}
   m_Layer: 5
-  m_Name: Button (2)
+  m_Name: Button (Ayuda)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -729,7 +729,7 @@ GameObject:
   - component: {fileID: 972956668}
   - component: {fileID: 972956667}
   m_Layer: 5
-  m_Name: Button (3)
+  m_Name: Button (Informacion del desarrollador)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -850,7 +850,7 @@ GameObject:
   - component: {fileID: 1460392109}
   - component: {fileID: 1460392108}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: 'Text (TMP) '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1470,7 +1470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0, g: 0.6742275, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
